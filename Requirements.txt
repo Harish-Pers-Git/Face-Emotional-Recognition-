@@ -1,0 +1,29 @@
+#python 10 is compatible for all the below libraries
+   # torch - For loading and running the model
+   # trandsform - For transforming the image to tensor/ Hugging Face model loading
+   # opencv-python  - For image processing/Webcam & face detection
+   # pillow - For image processing
+   # torchvision - For image processing
+
+#TO ACTIVATE THE VIRTUAL ENVIRONMENT
+# Create environment
+#python -m venv emotion-env
+# Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+# Activate (Windows)
+#emotion-env\Scripts\activate
+#.\emotion-env\Scripts\Activate.ps1
+# OR (Linux/Mac)
+#source emotion-env/bin/activate
+
+# Install all libraries
+#pip install torch torchvision transformers opencv-python pillow numpy
+opencv-python
+numpy
+torch
+Pillow
+transformers
+
+
+
+
+

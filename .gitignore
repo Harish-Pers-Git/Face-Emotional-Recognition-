@@ -1,0 +1,5 @@
+emotion-env/
+__pycache__/
+*.pyc
+.DS_Store
+haarcascade_frontalface_default.xml
